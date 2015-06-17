@@ -5,3 +5,5 @@ SpriteName.userInteractionEnabled = YES;
 In order to get touch events.
 
 Code in place works on iOS, Android (using spritebuilder plugin), and Mac using mouse events.
+
+Works and tested on Cocos2D-Objective C Version 3.4
